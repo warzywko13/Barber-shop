@@ -1,0 +1,21 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css");
+
+.btn-icon {
+    border: 1px solid #e0e0e0;
+    background: none;
+    width: 35px;
+    height: 35px;
+    border-radius: 4px;
+    color: #6a727a;
+    cursor: pointer;
+}
+
+.success:hover {
+    background: rgb(47, 214, 111);
+    color: #fff;
+}
+
+.danger:hover {
+    background: crimson;
+    color: #fff;
+}
